@@ -1,0 +1,14 @@
+# Builder mkf file for the c# portion of the gpgadmob extension on wp8
+
+options
+{
+    csproj=gpgadmobManaged
+}
+
+files
+{
+    (source/wp8)
+    AssemblyInfo.cs
+    gpgadmob.cs
+    
+}

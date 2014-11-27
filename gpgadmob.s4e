@@ -1,0 +1,47 @@
+include:
+#include <s3eTypes.h>
+
+typedef enum Admob_AdSize
+{	
+    Admob_GAD_SIZE_320x50  = 1,
+    Admob_GAD_SIZE_300x250 = 2,
+    Admob_GAD_SIZE_468x60  = 3,
+    Admob_GAD_SIZE_728x90  = 4,
+    Admob_GAD_SIZE_SMART  = 5,
+
+} Admob_AdSize;
+
+typedef enum Admob_Orientation
+{
+
+    Admob_Orientation_Portrait  = 0,
+    Admob_GAD_SIZE_Landscape = 1,
+    Admob_GAD_SIZE_PortraitDown  = 2,
+    Admob_GAD_SIZE_LandscapeDown  = 3,
+
+} Admob_Orientation;
+
+
+
+functions:
+
+s3eResult AdmobInit(const char* adUnitId, int adType, int x, int y) S3E_RESULT_ERROR run_on_os_thread
+s3eResult AdmobTestDevice(const char* szTestDeviceID) S3E_RESULT_ERROR run_on_os_thread
+s3eResult AdmobResize(int ad_type) S3E_RESULT_ERROR run_on_os_thread
+s3eResult AdmobShow() S3E_RESULT_ERROR run_on_os_thread
+s3eResult AdmobRefresh() S3E_RESULT_ERROR run_on_os_thread
+s3eResult AdmobHide() S3E_RESULT_ERROR run_on_os_thread
+s3eResult AdmobMove(int orientation, int x, int y) S3E_RESULT_ERROR run_on_os_thread
+
+s3eResult AdmobInterestialPreload(const char * adUnitId) S3E_RESULT_ERROR run_on_os_thread
+bool AdmobInterestialIsReady() false run_on_os_thread
+bool AdmobInterestialIsShown() false run_on_os_thread
+bool AdmobInterestialWasShown() false run_on_os_thread
+bool AdmobInterestialHasBeenUsed() false run_on_os_thread
+s3eResult AdmobInterestialShow() S3E_RESULT_ERROR run_on_os_thread
+s3eResult AdmobInterestialHide() S3E_RESULT_ERROR run_on_os_thread
+
+
+bool AdmobBannerIsClicked() false run_on_os_thread
+bool AdmobInterestialIsClicked() false run_on_os_thread
+

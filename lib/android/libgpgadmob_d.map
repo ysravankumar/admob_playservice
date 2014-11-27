@@ -1,0 +1,412 @@
+Archive member included because of file (symbol)
+
+E:\Marmalade\7.4\s3e\edk\lib\android/libedk.a(IwDebug.o)
+                              debug\gpgadmob_platform.os (IwDebugTraceIsChannelOn)
+E:\Marmalade\7.4\s3e\edk\lib\android/libedk.a(edk_helpers.o)
+                              debug\gpgadmob_platform.os (s3eEdkThreadRunOnOS)
+e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_aeabi_ldivmod.o)
+                              E:\Marmalade\7.4\s3e\edk\lib\android/libedk.a(IwDebug.o) (__aeabi_ldivmod)
+e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_dvmd_lnx.o)
+                              e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_aeabi_ldivmod.o) (__aeabi_ldiv0)
+e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o)
+                              e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_aeabi_ldivmod.o) (__gnu_ldivmod_helper)
+e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_divdi3.o)
+                              e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o) (__divdi3)
+e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivdi3.o)
+                              e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o) (__udivdi3)
+e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivsi3.o)
+                              e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_divdi3.o) (__aeabi_uidiv)
+
+Discarded input sections
+
+ .text          0x00000000       0x14 E:/Android/android-ndk-r9/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ .bss           0x00000000        0x0 E:/Android/android-ndk-r9/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ .note.GNU-stack
+                0x00000000        0x0 E:/Android/android-ndk-r9/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ .group         0x00000000        0x8 debug\gpgadmob_platform.os
+ .group         0x00000000        0x8 debug\gpgadmob_platform.os
+ .group         0x00000000        0x8 debug\gpgadmob_platform.os
+ .group         0x00000000        0x8 debug\gpgadmob_platform.os
+ .group         0x00000000        0x8 debug\gpgadmob_platform.os
+ .group         0x00000000        0x8 debug\gpgadmob_platform.os
+ .group         0x00000000        0x8 debug\gpgadmob_platform.os
+ .group         0x00000000        0x8 debug\gpgadmob_platform.os
+ .group         0x00000000        0x8 debug\gpgadmob_platform.os
+ .group         0x00000000        0x8 debug\gpgadmob_platform.os
+ .group         0x00000000        0x8 debug\gpgadmob_platform.os
+ .group         0x00000000        0x8 debug\gpgadmob_platform.os
+ .group         0x00000000        0x8 debug\gpgadmob_platform.os
+ .text          0x00000000        0x0 debug\gpgadmob_platform.os
+ .data          0x00000000        0x0 debug\gpgadmob_platform.os
+ .note.GNU-stack
+                0x00000000        0x0 debug\gpgadmob_platform.os
+ .text          0x00000000        0x0 debug\gpgadmob.os
+ .data          0x00000000        0x0 debug\gpgadmob.os
+ .bss           0x00000000        0x0 debug\gpgadmob.os
+ .note.GNU-stack
+                0x00000000        0x0 debug\gpgadmob.os
+ .text          0x00000000        0x0 debug\gpgadmob_register.os
+ .data          0x00000000        0x0 debug\gpgadmob_register.os
+ .bss           0x00000000        0x0 debug\gpgadmob_register.os
+ .note.GNU-stack
+                0x00000000        0x0 debug\gpgadmob_register.os
+ .text          0x00000000        0x0 E:\Marmalade\7.4\s3e\edk\lib\android/libedk.a(IwDebug.o)
+ .data          0x00000000        0x0 E:\Marmalade\7.4\s3e\edk\lib\android/libedk.a(IwDebug.o)
+ .text.IwDebugClearConfigCache
+                0x00000000       0x80 E:\Marmalade\7.4\s3e\edk\lib\android/libedk.a(IwDebug.o)
+ .text.IwDebugAssertIsChannelOn
+                0x00000000      0x1ec E:\Marmalade\7.4\s3e\edk\lib\android/libedk.a(IwDebug.o)
+ .text.IwDebugAssertShow
+                0x00000000      0x2e8 E:\Marmalade\7.4\s3e\edk\lib\android/libedk.a(IwDebug.o)
+ .text.IwDebugAssertSetSolution
+                0x00000000       0xb8 E:\Marmalade\7.4\s3e\edk\lib\android/libedk.a(IwDebug.o)
+ .text.IwDebugAssertSetMessage
+                0x00000000      0x100 E:\Marmalade\7.4\s3e\edk\lib\android/libedk.a(IwDebug.o)
+ .text.IwAssertRegisterTextCallback
+                0x00000000       0x1c E:\Marmalade\7.4\s3e\edk\lib\android/libedk.a(IwDebug.o)
+ .text.IwAssertRegisterCallback
+                0x00000000       0x1c E:\Marmalade\7.4\s3e\edk\lib\android/libedk.a(IwDebug.o)
+ .text.IwDebugTraceDisable
+                0x00000000       0x10 E:\Marmalade\7.4\s3e\edk\lib\android/libedk.a(IwDebug.o)
+ .text.IwDebugTraceChannelSwitch
+                0x00000000      0x1e4 E:\Marmalade\7.4\s3e\edk\lib\android/libedk.a(IwDebug.o)
+ .text.IwDebugErrorRegisterCallback
+                0x00000000       0x1c E:\Marmalade\7.4\s3e\edk\lib\android/libedk.a(IwDebug.o)
+ .text.IwDebugErrorShow
+                0x00000000      0x108 E:\Marmalade\7.4\s3e\edk\lib\android/libedk.a(IwDebug.o)
+ .text.IwDebugAssertSetUID
+                0x00000000       0x14 E:\Marmalade\7.4\s3e\edk\lib\android/libedk.a(IwDebug.o)
+ .note.GNU-stack
+                0x00000000        0x0 E:\Marmalade\7.4\s3e\edk\lib\android/libedk.a(IwDebug.o)
+ .text          0x00000000        0x0 E:\Marmalade\7.4\s3e\edk\lib\android/libedk.a(edk_helpers.o)
+ .data          0x00000000        0x0 E:\Marmalade\7.4\s3e\edk\lib\android/libedk.a(edk_helpers.o)
+ .bss           0x00000000        0x0 E:\Marmalade\7.4\s3e\edk\lib\android/libedk.a(edk_helpers.o)
+ .text.s3eEdkErrorSetString
+                0x00000000       0x30 E:\Marmalade\7.4\s3e\edk\lib\android/libedk.a(edk_helpers.o)
+ .text.s3eEdkThreadRunOnOSAsync
+                0x00000000       0x30 E:\Marmalade\7.4\s3e\edk\lib\android/libedk.a(edk_helpers.o)
+ .note.GNU-stack
+                0x00000000        0x0 E:\Marmalade\7.4\s3e\edk\lib\android/libedk.a(edk_helpers.o)
+ .data          0x00000000        0x0 e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_aeabi_ldivmod.o)
+ .bss           0x00000000        0x0 e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_aeabi_ldivmod.o)
+ .note.GNU-stack
+                0x00000000        0x0 e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_aeabi_ldivmod.o)
+ .data          0x00000000        0x0 e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_dvmd_lnx.o)
+ .bss           0x00000000        0x0 e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_dvmd_lnx.o)
+ .note.GNU-stack
+                0x00000000        0x0 e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_dvmd_lnx.o)
+ .data          0x00000000        0x0 e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o)
+ .bss           0x00000000        0x0 e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o)
+ .note.GNU-stack
+                0x00000000        0x0 e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o)
+ .data          0x00000000        0x0 e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_divdi3.o)
+ .bss           0x00000000        0x0 e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_divdi3.o)
+ .ARM.extab     0x00000000        0x0 e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_divdi3.o)
+ .note.GNU-stack
+                0x00000000        0x0 e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_divdi3.o)
+ .data          0x00000000        0x0 e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivdi3.o)
+ .bss           0x00000000        0x0 e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivdi3.o)
+ .ARM.extab     0x00000000        0x0 e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivdi3.o)
+ .note.GNU-stack
+                0x00000000        0x0 e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivdi3.o)
+ .data          0x00000000        0x0 e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivsi3.o)
+ .note.GNU-stack
+                0x00000000        0x0 e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivsi3.o)
+ .text          0x00000000        0x0 E:/Android/android-ndk-r9/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+ .data          0x00000000        0x0 E:/Android/android-ndk-r9/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+ .bss           0x00000000        0x0 E:/Android/android-ndk-r9/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+ .note.GNU-stack
+                0x00000000        0x0 E:/Android/android-ndk-r9/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+
+Memory map
+
+ ** file header
+                0x00000000       0x34
+ ** segment headers
+                0x00000034      0x100
+
+.interp         0x00000134       0x13
+ ** fill        0x00000134       0x13
+
+.dynsym         0x00000148      0x280
+ ** dynsym      0x00000148      0x280
+
+.dynstr         0x000003c8      0x253
+ ** string table
+                0x000003c8      0x253
+
+.hash           0x0000061c      0x13c
+ ** hash        0x0000061c      0x13c
+
+.rel.dyn        0x00000758       0xa0
+ ** dynamic relocs
+                0x00000758       0xa0
+
+.rel.plt        0x000007f8       0x78
+ ** dynamic relocs
+                0x000007f8       0x78
+
+.plt            0x00000870       0xc8
+ ** PLT         0x00000870       0xc8
+
+.text           0x00000938     0x2dc8
+ .text.exit     0x00000938       0x10 E:/Android/android-ndk-r9/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+                0x00000938                __on_dlclose
+ .text.startup._GLOBAL__sub_I_IwDebug.cpp
+                0x00000948       0x88 E:\Marmalade\7.4\s3e\edk\lib\android/libedk.a(IwDebug.o)
+ .text._ZN7_JNIEnv9FindClassEPKc
+                0x000009d0       0x38 debug\gpgadmob_platform.os
+                0x000009d0                _JNIEnv::FindClass(char const*)
+ .text._ZN7_JNIEnv17ExceptionOccurredEv
+                0x00000a08       0x30 debug\gpgadmob_platform.os
+                0x00000a08                _JNIEnv::ExceptionOccurred()
+ .text._ZN7_JNIEnv17ExceptionDescribeEv
+                0x00000a38       0x28 debug\gpgadmob_platform.os
+                0x00000a38                _JNIEnv::ExceptionDescribe()
+ .text._ZN7_JNIEnv14ExceptionClearEv
+                0x00000a60       0x28 debug\gpgadmob_platform.os
+                0x00000a60                _JNIEnv::ExceptionClear()
+ .text._ZN7_JNIEnv12NewGlobalRefEP8_jobject
+                0x00000a88       0x38 debug\gpgadmob_platform.os
+                0x00000a88                _JNIEnv::NewGlobalRef(_jobject*)
+ .text._ZN7_JNIEnv15DeleteGlobalRefEP8_jobject
+                0x00000ac0       0x30 debug\gpgadmob_platform.os
+                0x00000ac0                _JNIEnv::DeleteGlobalRef(_jobject*)
+ .text._ZN7_JNIEnv14DeleteLocalRefEP8_jobject
+                0x00000af0       0x30 debug\gpgadmob_platform.os
+                0x00000af0                _JNIEnv::DeleteLocalRef(_jobject*)
+ .text._ZN7_JNIEnv9NewObjectEP7_jclassP10_jmethodIDz
+                0x00000b20       0x58 debug\gpgadmob_platform.os
+                0x00000b20                _JNIEnv::NewObject(_jclass*, _jmethodID*, ...)
+ .text._ZN7_JNIEnv11GetMethodIDEP7_jclassPKcS3_
+                0x00000b78       0x48 debug\gpgadmob_platform.os
+                0x00000b78                _JNIEnv::GetMethodID(_jclass*, char const*, char const*)
+ .text._ZN7_JNIEnv17CallBooleanMethodEP8_jobjectP10_jmethodIDz
+                0x00000bc0       0x5c debug\gpgadmob_platform.os
+                0x00000bc0                _JNIEnv::CallBooleanMethod(_jobject*, _jmethodID*, ...)
+ .text._ZN7_JNIEnv13CallIntMethodEP8_jobjectP10_jmethodIDz
+                0x00000c1c       0x58 debug\gpgadmob_platform.os
+                0x00000c1c                _JNIEnv::CallIntMethod(_jobject*, _jmethodID*, ...)
+ .text._ZN7_JNIEnv12NewStringUTFEPKc
+                0x00000c74       0x38 debug\gpgadmob_platform.os
+                0x00000c74                _JNIEnv::NewStringUTF(char const*)
+ .text._ZN7_JavaVM6GetEnvEPPvi
+                0x00000cac       0x40 debug\gpgadmob_platform.os
+                0x00000cac                _JavaVM::GetEnv(void**, int)
+ .text._ZL15s3eEdkJNIGetEnvv
+                0x00000cec       0x40 debug\gpgadmob_platform.os
+ .text._ZL27s3eEdkAndroidFindClass_realPKc
+                0x00000d2c       0x8c debug\gpgadmob_platform.os
+ .text._ZL22s3eEdkAndroidFindClassPKc
+                0x00000db8       0x38 debug\gpgadmob_platform.os
+ .text._Z21gpgadmobInit_platformv
+                0x00000df0      0x770 debug\gpgadmob_platform.os
+                0x00000df0                gpgadmobInit_platform()
+ .text._Z26gpgadmobTerminate_platformv
+                0x00001560       0x48 debug\gpgadmob_platform.os
+                0x00001560                gpgadmobTerminate_platform()
+ .text._Z18AdmobInit_platformPKciii
+                0x000015a8       0x8c debug\gpgadmob_platform.os
+                0x000015a8                AdmobInit_platform(char const*, int, int, int)
+ .text._Z24AdmobTestDevice_platformPKc
+                0x00001634       0x68 debug\gpgadmob_platform.os
+                0x00001634                AdmobTestDevice_platform(char const*)
+ .text._Z20AdmobResize_platformi
+                0x0000169c       0x58 debug\gpgadmob_platform.os
+                0x0000169c                AdmobResize_platform(int)
+ .text._Z18AdmobShow_platformv
+                0x000016f4       0x50 debug\gpgadmob_platform.os
+                0x000016f4                AdmobShow_platform()
+ .text._Z21AdmobRefresh_platformv
+                0x00001744       0x50 debug\gpgadmob_platform.os
+                0x00001744                AdmobRefresh_platform()
+ .text._Z18AdmobHide_platformv
+                0x00001794       0x50 debug\gpgadmob_platform.os
+                0x00001794                AdmobHide_platform()
+ .text._Z18AdmobMove_platformiii
+                0x000017e4       0x70 debug\gpgadmob_platform.os
+                0x000017e4                AdmobMove_platform(int, int, int)
+ .text._Z32AdmobInterestialPreload_platformPKc
+                0x00001854       0x68 debug\gpgadmob_platform.os
+                0x00001854                AdmobInterestialPreload_platform(char const*)
+ .text._Z32AdmobInterestialIsReady_platformv
+                0x000018bc       0x60 debug\gpgadmob_platform.os
+                0x000018bc                AdmobInterestialIsReady_platform()
+ .text._Z32AdmobInterestialIsShown_platformv
+                0x0000191c       0x60 debug\gpgadmob_platform.os
+                0x0000191c                AdmobInterestialIsShown_platform()
+ .text._Z33AdmobInterestialWasShown_platformv
+                0x0000197c       0x60 debug\gpgadmob_platform.os
+                0x0000197c                AdmobInterestialWasShown_platform()
+ .text._Z36AdmobInterestialHasBeenUsed_platformv
+                0x000019dc       0x60 debug\gpgadmob_platform.os
+                0x000019dc                AdmobInterestialHasBeenUsed_platform()
+ .text._Z29AdmobInterestialShow_platformv
+                0x00001a3c       0x50 debug\gpgadmob_platform.os
+                0x00001a3c                AdmobInterestialShow_platform()
+ .text._Z29AdmobInterestialHide_platformv
+                0x00001a8c       0x50 debug\gpgadmob_platform.os
+                0x00001a8c                AdmobInterestialHide_platform()
+ .text._Z29AdmobBannerIsClicked_platformv
+                0x00001adc       0x60 debug\gpgadmob_platform.os
+                0x00001adc                AdmobBannerIsClicked_platform()
+ .text._Z34AdmobInterestialIsClicked_platformv
+                0x00001b3c       0x60 debug\gpgadmob_platform.os
+                0x00001b3c                AdmobInterestialIsClicked_platform()
+ .text._Z12gpgadmobInitv
+                0x00001b9c       0x14 debug\gpgadmob.os
+                0x00001b9c                gpgadmobInit()
+ .text._Z17gpgadmobTerminatev
+                0x00001bb0        0xc debug\gpgadmob.os
+                0x00001bb0                gpgadmobTerminate()
+ .text.AdmobInit
+                0x00001bbc       0x3c debug\gpgadmob.os
+                0x00001bbc                AdmobInit
+ .text.AdmobTestDevice
+                0x00001bf8       0x24 debug\gpgadmob.os
+                0x00001bf8                AdmobTestDevice
+ .text.AdmobResize
+                0x00001c1c       0x24 debug\gpgadmob.os
+                0x00001c1c                AdmobResize
+ .text.AdmobShow
+                0x00001c40       0x14 debug\gpgadmob.os
+                0x00001c40                AdmobShow
+ .text.AdmobRefresh
+                0x00001c54       0x14 debug\gpgadmob.os
+                0x00001c54                AdmobRefresh
+ .text.AdmobHide
+                0x00001c68       0x14 debug\gpgadmob.os
+                0x00001c68                AdmobHide
+ .text.AdmobMove
+                0x00001c7c       0x34 debug\gpgadmob.os
+                0x00001c7c                AdmobMove
+ .text.AdmobInterestialPreload
+                0x00001cb0       0x24 debug\gpgadmob.os
+                0x00001cb0                AdmobInterestialPreload
+ .text.AdmobInterestialIsReady
+                0x00001cd4       0x14 debug\gpgadmob.os
+                0x00001cd4                AdmobInterestialIsReady
+ .text.AdmobInterestialIsShown
+                0x00001ce8       0x14 debug\gpgadmob.os
+                0x00001ce8                AdmobInterestialIsShown
+ .text.AdmobInterestialWasShown
+                0x00001cfc       0x14 debug\gpgadmob.os
+                0x00001cfc                AdmobInterestialWasShown
+ .text.AdmobInterestialHasBeenUsed
+                0x00001d10       0x14 debug\gpgadmob.os
+                0x00001d10                AdmobInterestialHasBeenUsed
+ .text.AdmobInterestialShow
+                0x00001d24       0x14 debug\gpgadmob.os
+                0x00001d24                AdmobInterestialShow
+ .text.AdmobInterestialHide
+                0x00001d38       0x14 debug\gpgadmob.os
+                0x00001d38                AdmobInterestialHide
+ .text.AdmobBannerIsClicked
+                0x00001d4c       0x14 debug\gpgadmob.os
+                0x00001d4c                AdmobBannerIsClicked
+ .text.AdmobInterestialIsClicked
+                0x00001d60       0x14 debug\gpgadmob.os
+                0x00001d60                AdmobInterestialIsClicked
+ .text._ZL14AdmobInit_wrapPKciii
+                0x00001d74       0xc0 debug\gpgadmob_register.os
+ .text._ZL20AdmobTestDevice_wrapPKc
+                0x00001e34       0xa0 debug\gpgadmob_register.os
+ .text._ZL16AdmobResize_wrapi
+                0x00001ed4       0xa0 debug\gpgadmob_register.os
+ .text._ZL14AdmobShow_wrapv
+                0x00001f74       0x90 debug\gpgadmob_register.os
+ .text._ZL17AdmobRefresh_wrapv
+                0x00002004       0x90 debug\gpgadmob_register.os
+ .text._ZL14AdmobHide_wrapv
+                0x00002094       0x90 debug\gpgadmob_register.os
+ .text._ZL14AdmobMove_wrapiii
+                0x00002124       0xb4 debug\gpgadmob_register.os
+ .text._ZL28AdmobInterestialPreload_wrapPKc
+                0x000021d8       0xa0 debug\gpgadmob_register.os
+ .text._ZL28AdmobInterestialIsReady_wrapv
+                0x00002278       0xa0 debug\gpgadmob_register.os
+ .text._ZL28AdmobInterestialIsShown_wrapv
+                0x00002318       0xa0 debug\gpgadmob_register.os
+ .text._ZL29AdmobInterestialWasShown_wrapv
+                0x000023b8       0xa0 debug\gpgadmob_register.os
+ .text._ZL32AdmobInterestialHasBeenUsed_wrapv
+                0x00002458       0xa0 debug\gpgadmob_register.os
+ .text._ZL25AdmobInterestialShow_wrapv
+                0x000024f8       0x90 debug\gpgadmob_register.os
+ .text._ZL25AdmobInterestialHide_wrapv
+                0x00002588       0x90 debug\gpgadmob_register.os
+ .text._ZL25AdmobBannerIsClicked_wrapv
+                0x00002618       0xa0 debug\gpgadmob_register.os
+ .text._ZL30AdmobInterestialIsClicked_wrapv
+                0x000026b8       0xa0 debug\gpgadmob_register.os
+ .text._Z19gpgadmobRegisterExtv
+                0x00002758      0x178 debug\gpgadmob_register.os
+                0x00002758                gpgadmobRegisterExt()
+ .text.RegisterExt
+                0x000028d0        0xc debug\gpgadmob_register.os
+                0x000028d0                RegisterExt
+ .text.IwDebugTraceIsChannelOn
+                0x000028dc      0x27c E:\Marmalade\7.4\s3e\edk\lib\android/libedk.a(IwDebug.o)
+                0x000028dc                IwDebugTraceIsChannelOn
+ .text.IwDebugTraceSetTraceChannel
+                0x00002b58       0x1c E:\Marmalade\7.4\s3e\edk\lib\android/libedk.a(IwDebug.o)
+                0x00002b58                IwDebugTraceSetTraceChannel
+ .text.IwDebugTraceLineVPrintf
+                0x00002b74       0xfc E:\Marmalade\7.4\s3e\edk\lib\android/libedk.a(IwDebug.o)
+                0x00002b74                IwDebugTraceLineVPrintf
+ .text.IwDebugTraceLinePrintf
+                0x00002c70       0x30 E:\Marmalade\7.4\s3e\edk\lib\android/libedk.a(IwDebug.o)
+                0x00002c70                IwDebugTraceLinePrintf
+ .text.s3eEdkThreadRunOnOS
+                0x00002ca0       0x30 E:\Marmalade\7.4\s3e\edk\lib\android/libedk.a(edk_helpers.o)
+                0x00002ca0                s3eEdkThreadRunOnOS
+ .text          0x00002cd0       0x44 e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_aeabi_ldivmod.o)
+                0x00002cd0                __aeabi_ldivmod
+ .text          0x00002d14       0x10 e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_dvmd_lnx.o)
+                0x00002d14                __aeabi_idiv0
+                0x00002d14                __aeabi_ldiv0
+ .text          0x00002d24       0x78 e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o)
+                0x00002d24                __gnu_ldivmod_helper
+                0x00002d60                __gnu_uldivmod_helper
+ .text          0x00002d9c      0x498 e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_divdi3.o)
+                0x00002d9c                __divdi3
+ .text          0x00003234      0x404 e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivdi3.o)
+                0x00003234                __udivdi3
+ .text          0xffffffffffffffff       0xc8 e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivsi3.o)
+                0x00003638                __udivsi3
+                0x00003638                __aeabi_uidiv
+                0x000036e0                __aeabi_uidivmod
+
+.rodata         0x00003700      0x6c6
+ .rodata        0x00003700      0x1f4 debug\gpgadmob_platform.os
+ .rodata        0x000038f4      0x3b8 debug\gpgadmob_register.os
+ ** merge strings
+                0x00003cac      0x11a
+
+.ARM.exidx      0x00003dc8        0x8
+ .ARM.exidx     0x00003dc8        0x8 e:/android/android-ndk-r9/toolchains/arm-linux-androideabi-4.8/prebuilt/windows/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_divdi3.o)
+
+.fini_array     0x00004e80        0x8
+ .fini_array    0x00004e80        0x4 E:/Android/android-ndk-r9/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ .fini_array    0x00004e84        0x4 E:/Android/android-ndk-r9/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+
+.init_array     0x00004e88        0x8
+ .init_array    0x00004e88        0x4 E:\Marmalade\7.4\s3e\edk\lib\android/libedk.a(IwDebug.o)
+ .init_array    0x00004e8c        0x4 E:/Android/android-ndk-r9/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+
+.dynamic        0x00004e90       0xe0
+ ** dynamic     0x00004e90       0xe0
+
+.got            0x00004f70       0x90
+ ** GOT         0x00004f70       0x48
+ ** GOT PLT     0x00004fb8       0x48
+
+.data           0x00005000        0x4
+ .data          0x00005000        0x4 E:/Android/android-ndk-r9/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+                0x00005000                __dso_handle
+
+.bss            0x00005004     0x1a6c
+ .bss           0x00005004       0x44 debug\gpgadmob_platform.os
+ .bss           0x00005048     0x1a28 E:\Marmalade\7.4\s3e\edk\lib\android/libedk.a(IwDebug.o)
+                0x00005048                g_DebugGlobals
